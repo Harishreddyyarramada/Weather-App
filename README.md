@@ -10,8 +10,8 @@ Built with **React** and **Tailwind CSS**, the app fetches live weather data usi
 
 ## 📌 Features
 
-- ✅ **Current Weather** – Displays temperature, humidity, wind speed, and conditions  
-- ✅ **5-Day Forecast** – Shows daily weather including min/max temperature and condition description  
+- ✅ **Current Weather** – Displays temperature, conditions and along with the current weather condition using the animated .svg images.  
+- ✅ **7-Day Forecast** – Shows daily weather including min/max temperature and condition description  
 - ✅ **Search by Location** – Enter a city name or use your device’s location  
 - ✅ **Responsive Design** – Works smoothly on desktop, tablet, and mobile  
 - ✅ **Clean & Simple UI** – Designed for non-technical users with an intuitive interface  
@@ -20,15 +20,14 @@ Built with **React** and **Tailwind CSS**, the app fetches live weather data usi
 
 ## 🖼️ Screenshots
 
-*(Add screenshots of your app here for clarity, e.g., home page and forecast page)*  
+1.Homepage Screenshot<img width="1911" height="1027" alt="Screenshot 2025-08-29 143644 - Copy" src="https://github.com/user-attachments/assets/689daebc-9f42-41d4-9d70-01c1873d3165" />
+2.Geo-Location API<img width="1912" height="1031" alt="Location" src="https://github.com/user-attachments/assets/434f4d9d-4e0c-4499-85f5-c7da506a358f" />
+3.Current Weather<img width="1920" height="1080" alt="Current Location" src="https://github.com/user-attachments/assets/d37109d7-b3bc-4d39-9460-11f8932c61e9" />
+4.City-Name-Weather<img width="1920" height="1080" alt="City-Name" src="https://github.com/user-attachments/assets/78a2d939-d4e1-4ef5-9880-c958d84fe725" />
+5.Fetching Error handles .<img width="1920" height="1080" alt="Fetching Error" src="https://github.com/user-attachments/assets/4618bf2d-a34f-43a0-8feb-7d7f0977254f" />
 
-Example:  
 
-![Weather App Screenshot](screenshot.png)
-
----
-
-## 🚀 How It Works (Simple Explanation)
+## 🚀 How It Works 
 
 1. You enter a **city name** or allow the app to use your **current location**  
 2. The app sends this information to a **weather service (API)**  
@@ -41,11 +40,11 @@ Example:
 
 - **Frontend:** React + Tailwind CSS  
 - **API:** Open-Meteo API  
-- **Hosting:** (Netlify / Vercel / GitHub Pages – update if applicable)  
+- **Hosting:** (CodeSandbox)  
 
 ---
 
-## 📥 Installation & Setup (For Developers)
+## 📥 Installation & Setup 
 
 If you are a developer and want to run the project locally:
 
